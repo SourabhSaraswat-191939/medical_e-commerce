@@ -1,0 +1,19 @@
+{
+  "name": "medical_e-commerce",
+  "version": "1.0.0",
+  "description": "This platform is for providing medical products and equipments online . Created By Sourabh Saraswat.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SourabhSaraswat/medical_e-commerce.git"
+  },
+  "author": "Sourabh Saraswat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SourabhSaraswat/medical_e-commerce/issues"
+  },
+  "homepage": "https://github.com/SourabhSaraswat/medical_e-commerce#readme"
+}
