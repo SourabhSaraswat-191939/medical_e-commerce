@@ -11,7 +11,7 @@
       alt="Vuetify Logo"
           class="shrink mr-4"
           contain
-          src="../assets/logo.png"
+          src="../assets/company_logo.png"
           transition="fab-transition"
           width="40"
        />
